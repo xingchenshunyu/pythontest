@@ -1,0 +1,70 @@
+demo1-demo3 条件控制
+demo1 条件控制梗概
+demo2 test
+demo3 snippet，elif
+
+demo4-demo6 ex2 循环
+demo4 while循环
+demo5 for，for\else
+demo6 for中range的用法
+demo7 模块内置变量和入口文件的区别
+demo8 c2对比测试（分别执行）
+
+demo9-demo11 函数
+demo9 初识函数
+ex3，ex4  第一个函数
+ex5 可变参数实例
+demo10 参数
+        1.必须参数
+        2.关键字参数
+        3.默认参数
+        4.可变参数
+demo11 global关键字
+
+demo12- demo 面向对象
+test3 类包
+demo12 类的调用
+demo13,test3.demo2 子类调用父类（super），外部函数调用子类
+
+demo14 正则表达式
+        正则表达式是一个特殊的字符序列，一个字符串是否我们所设定的这个字符序列相匹配
+        实现快速检索文本，或者替换某些文本的操作        
+demo15 把函数作为参数传递
+demo16 match和search
+demo17 json反序列化
+demo18 json序列化
+
+demo19 枚举
+
+函数式编程
+demo20 闭包
+ex6 闭包测试
+ex7 闭包习题
+demo21 lambda函数
+
+demo22 装饰器（test3.demo1使用过）
+
+test1 包和模块,函数的测试
+    c1 模块内置模块
+    c2（demo8） if __name__ == "__main__":pass 的用法
+    c3 (demo11) global 把局部变量改成全局变量
+
+test2 作业
+
+test3 面向对象
+    demo1 父类
+    demo2 子类
+
+注：在Python命令行中输入“import this”，输出Python之禅
+    可以使用pass在Python中作为占位符（空语句）
+
+        json和python的转化
+json                    python
+object                    dict
+array                     list
+string                    str
+number                    int
+number                    float
+ture                      Ture
+false                     False
+null                      None
